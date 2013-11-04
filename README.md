@@ -14,7 +14,7 @@ Q. how can i map my geolocation data to the screen?<br/>
 A. <a href="http://matthewhealy.net/" target="_blank">Matt</a> again! he wrote <a href="http://engineering.foursquare.com/2011/09/26/behind-the-scenes-of-our-week-of-check-ins-visualization/" target="_blank">how he visualized check-ins</a> on foursquare blog. like he says, i play with <a href="https://github.com/RandomEtc/modestmaps-processing" target="_blank">modestmaps library</a>, which is really super easy to convert geolocation to screen and vice versa.
 
 Q. what map am i using?<br/>
-A. still looking for good ones...
+A. still looking for good ones...<br/>
 *** please email me at jihyun.lee@nyu.edu if you have any suggestions/recommendations.
 
 
