@@ -1,4 +1,4 @@
-this is an example of how to connect with foursquare via oauth 2.0 using <a href="http://processing.org/" target="_blank">Processing</a>, <a href="http://nytlabs.com/oauthp5/" target="_blank">oauthP5</a> and <a href="http://www.sojamo.de/libraries/controlP5/" target="_blank">controlP5</a>.
+this is an example of how to <a href="https://developer.foursquare.com/overview/auth" target="_blank">connect with foursquare via oauth 2.0</a> using <a href="http://processing.org/" target="_blank">Processing</a>, <a href="http://nytlabs.com/oauthp5/" target="_blank">oauthP5</a> and <a href="http://www.sojamo.de/libraries/controlP5/" target="_blank">controlP5</a>.
 
 before running this sketch, you should <a href="https://foursquare.com/developers/register" target="_blank">create an app on foursquare</a> and have a client id and a client secret key.<br/>
 copy and paste your app's client id and secret key to the sketch on the top -- CLIENT_ID and CLIENT_SECRET.
