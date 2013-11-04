@@ -9,4 +9,4 @@ when run this processing sketch, you will see two buttons -- open and ok.<br/>
 press open to get auth code.<br/>
 copy the code after 'code=' and press ok button.
 
-now you will get your recent check-ins on the console. yay!!!
+now you can see your recent check-ins on the console. yay!!!
