@@ -1,7 +1,7 @@
 4sq
 ===
 
-Foursquare is my favorite!<br/> 
+<a href="foursquare.com" target="_blank">Foursquare</a> is my favorite!<br/> 
 I have been curious about my data for a long time. so I would like to explore stories behind my foursquare data.
 
 visualization is a good way to understand data and find stories. so here is how i work in progress.
